@@ -2,7 +2,7 @@
 
 ## Description
 
-Powered by third-party API's such as Day.js, this application is a simple kanban task board for project management. Meant for anyone with multiple tasks to organize, this application will allow the user to input any of their tasks, and drag them into a respective 'To Do', 'In Progress', or 'Done' list. It will also display the color of their task in yellow, provided it's due within 3 days, or red, to notify the user that the task is overdue. In order to make this website a reality, we were given starter code mostly consisting of HTML and CSS. Then, we were tasked with adding functions in Javascript so that the page would be dynamically updated and functional. The following is an image of what one might see upon opening the page. 
+Powered by third-party API's such as Day.js and jQuery, this application is a simple kanban task board for project management. Meant for anyone with multiple tasks to organize, this application will allow the user to input any of their tasks, and drag them into a respective 'To Do', 'In Progress', or 'Done' list. It will also display the color of their task in yellow, provided it's due within 3 days, or red, to notify the user that the task is overdue. In order to make this website a reality, we were given starter code mostly consisting of HTML and CSS. Then, we were tasked with adding functions in Javascript so that the page would be dynamically updated and functional. The following is an image of what one might see upon opening the page. 
 ![kanban1](https://github.com/Rinovi/Task-Board/assets/160938078/a95524ac-2700-4a15-b7f4-a10a8aefb152)
 
 ## Usage
