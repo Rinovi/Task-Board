@@ -12,9 +12,9 @@ In order to use the task board, start by clicking the green 'Add Task' button in
 
 ## Credits
 
-The following is a link to the starter code that was used to create this project:
+* The following is a link to the starter code that was used to create this project:
 https://github.com/coding-boot-camp/musical-happiness
-Also, here is a link to the deployed application:
+* Also, here is a link to the deployed application:
 https://rinovi.github.io/Task-Board/
 
 
